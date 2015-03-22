@@ -1,0 +1,8 @@
+-o
+/home/harsh/273/grpc-java/compiler/build/binaries/java_pluginExecutable/java_plugin
+/home/harsh/273/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/32bwndac0ekdkbm5fxgx46g85/java_plugin.o
+/home/harsh/273/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/dmpk6m1yc78fkrg5p4srbvjiq/java_generator.o
+/home/harsh/273/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/9nhfwfbk8wtf43vaqbsbw5bup/java_generator.o
+-lprotoc
+-lprotobuf
+-L/home/harsh/273/proto_installa/lib/

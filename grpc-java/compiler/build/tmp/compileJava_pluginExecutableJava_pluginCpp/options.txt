@@ -1,0 +1,10 @@
+-x
+c++
+-std=c++0x
+-I/home/harsh/273/proto_installa/include/
+-c
+-I
+/home/harsh/273/grpc-java/compiler/src/java_plugin/headers
+/home/harsh/273/grpc-java/compiler/src/java_plugin/cpp/java_generator.cpp
+-o
+/home/harsh/273/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/9nhfwfbk8wtf43vaqbsbw5bup/java_generator.o
